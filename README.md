@@ -1,9 +1,9 @@
 - 👋 Hi, I’m António
 - 👀 I’m interested in education (Implementing [Fab Lab](https://fabfoundation.org/) at Schools), [ARDUINO Physics project](https://wikifactory.com/+lababertoknowledgebase/arduino) and [autonomous water vehicles](http://fabacademy.org/2019/labs/fct/students/antonio-gomes/projects/final-project/)
+- 💞️ I’m looking to learn on the use of ARDUPILOT software in maritime vehicles
 - 🌱 I’m currently learning about Stats and Data Science at EDx and MITx
 - 🌱 Interested in Cognitive Load Theory and 4C/ID instructional design applied to bLearning settings
 - 🌱 I'm at a non-profit association, [Lab Aberto Fab Lab](https://lababerto.pt/), located in Torres Vedras - Lisbon - Portugal
-- 💞️ I’m looking to collaborate on the use of ARDUPILOT software in maritime vehicles
 - 📫 How to reach me? fqantonio@yahoo.com and lababerto@gmail.com
 
 <!---
